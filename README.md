@@ -7,9 +7,13 @@ https://github.com/mikeyp0415/PERNFrontEnd
 Built using <strong>Node, Express, and PostgreSQL</strong>
 
 <h2>Dependencies:</h2>
+<br>
 - express
+<br>
 - body-parser
+<br>
 - morgan
+<br>
 - pg
 
 Install all dependencies individually or using <strong>npm install</strong>
