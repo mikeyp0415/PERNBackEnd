@@ -1,1 +1,15 @@
 
+This is the API for my Full-Stack CRUD Application.
+
+It was built using Express and PostgreSQL
+
+DEPENDENCIES:
+
+- express
+- body-parser
+- morgan
+- pg
+
+In the terminal, type <strong>npm install</strong> to install all dependencies.
+
+Finally, start the server with <strong>node server.js</strong> and <strong>MAKE SURE</strong> it is running on Port 3000.
