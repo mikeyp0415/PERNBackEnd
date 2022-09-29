@@ -15,9 +15,9 @@ Built using <strong>Node, Express, and PostgreSQL</strong>
 - morgan
 <br>
 - pg
-<br>
+<br><br>
 Install all dependencies individually or using <strong>npm install</strong>
-
+<br><br>
 <strong>MUST ALWAYS RUN ON PORT 3000. I recommend running the Front-End on port 3001</strong>
 
 <hr>
