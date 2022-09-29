@@ -7,7 +7,7 @@ const PORT = 3000;
 //set postgres connection strings 
 let pool = new pg.Pool({
   port: 5432,
-  password: 'Lawless1234567!',
+  password: '',
   database: 'userdb',
   max: 10,
   host: 'localhost',
